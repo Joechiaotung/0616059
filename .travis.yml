@@ -4,5 +4,3 @@ jdk:
  - openjdk8
  - openjdk11
 
-before_install:
-  - cd java
